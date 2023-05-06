@@ -223,7 +223,7 @@ public class ServidorDNS {
     }
     
     
-    //Cambiar esta parte
+    //Imprimir traduccion de la peticion
     public static void imprimirTraduccion(String url, String ip){
         //Imprime en consola la informacion del packet que recibe
         System.out.println("-");
