@@ -7,4 +7,4 @@ En el siguiente codigo solo se van a manejar dominios **QTYPE = A (0000000000000
 Esta desarrollado en una arquitectura Cliente/Servidor.
 
 # Utilización
-Tan simple como correr el codigo y esperar a peticiones por parte del cliente para la resolución de nombres de dominios.
+El archivo ***MasterFiles.txt*** es el componente en el cual se guarda la información de los dominios, con su respectiva direccion IP para poder ser traducida. Al ejecutar el codigo, se esperan a peticiones por parte del cliente para la resolución de nombres de dominios gracias a este archivo de texto.
