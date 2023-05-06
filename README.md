@@ -2,7 +2,7 @@
 Servidor DNS funcional desarrollado en Java.
 
 ## Información Importante
-Este proyecto esta basado en el [**RFC 1035 "DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION"**](https://www.ietf.org/rfc/rfc1035.txt) publicado por la IETF.
+Este proyecto está basado en el [**RFC 1035 "DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION"**](https://www.ietf.org/rfc/rfc1035.txt){:target="_blank"} publicado por la IETF.
 En el siguiente código solo se van a manejar dominios **QTYPE = A (0000000000000001) y QCLASS = IN (0000000000000001)** para las peticiones DNS.
 Se sigue una arquitectura Cliente/Servidor.
 
