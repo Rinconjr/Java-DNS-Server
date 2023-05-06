@@ -10,4 +10,4 @@ Se sigue una arquitectura Cliente/Servidor.
 El archivo ***MasterFiles.txt*** es el componente en el cual se guarda la información de los dominios, con su respectiva dirección IP para poder ser traducida. Al ejecutar el código, se esperan a peticiones por parte del cliente para la resolución de nombres de dominios gracias a este archivo de texto.
 
 ##  Documentación
-El siguiente [documento](Java-DNS-Server/Documentacion Servidor DNS - Grupo 2.pdf) ha sido diseñado para proporcionar toda la información necesaria con respecto a los conceptos utilizados en el desarrollo y explicación del código.
+El siguiente [documento](https://github.com/Rinconjr/Java-DNS-Server/blob/main/Documentacion%20Servidor%20DNS%20-%20Grupo%202.pdf) ha sido diseñado para proporcionar toda la información necesaria con respecto a los conceptos utilizados en el desarrollo y explicación del código.
